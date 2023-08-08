@@ -1,4 +1,4 @@
-# Time-forecasting-using-Arimax-seasonal-Arimax-and-Holt-s-Method-
+# Sale-forecasting-using-Arimax-seasonal-Arimax-and-Holt-s-Method-
 ARIMAX (AutoRegressive Integrated Moving Average with eXogenous variables) and SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous variables) are advanced time series forecasting models that incorporate external factors or predictors, known as exogenous variables, into the traditional ARIMA or seasonal ARIMA framework. Let's explore these concepts in the context of sales data for Perrin Freres monthly champagne.
 
 ARIMAX:
